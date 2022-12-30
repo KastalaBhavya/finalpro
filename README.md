@@ -1,6 +1,6 @@
 # ["Level-Up Lifestyle" Website using Microsoft Azure Technologies]
 
-Project Link : https://app.site123.com/manager/wizard.php?wu=63aeee8248e5e-63aeee8248e5f-63aeee8248e60#
+Project Link : https://63aeee8436c81.site123.me/
 
 Demo Video : https://vimeo.com/718651949
 
